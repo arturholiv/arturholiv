@@ -1,5 +1,5 @@
 ### Hi there 👋
-https://arturholiv.github.io/
+https://arturholiv.github.io/portifolio
 
 
  ### My Skills: 
