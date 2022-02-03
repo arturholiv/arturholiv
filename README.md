@@ -1,10 +1,12 @@
-### Hi there 👋
-https://arturholiv.github.io/portifolio
+<h1>Hi there, I'm Artur 👋</h1>
 
+<p> Here is my portifolio: https://arturholiv.github.io/portifolio </p>
 
- ### My Skills: 
+ <a href="https://www.linkedin.com/in/arturholiv/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+<h1>My Skills</h1> 
 <div align="left" > 
- <h1>Front-End</h1>
+ <h3>Front-End</h3>
  <img alt="html5" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" style="max-width:100%;">
  <img alt="css3" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" style="max-width:100%;">
  <img alt="javascript" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="maxwidth:100%;">
@@ -13,22 +15,22 @@ https://arturholiv.github.io/portifolio
 </div><br />
 
 <div style="display: inline_block"><br>
-    <h1>Back-End</h1>
-    <img align="center" alt="Artur-NodeJs" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img align="center" alt="Artur-Docker" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
-    <img align="center" alt="Artur-MySQL" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+    <h3>Back-End</h3>
+    <img align="center" alt="Artur-NodeJs" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img align="center" alt="Artur-Docker" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+    <img align="center" alt="Artur-MySQL"height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   </div>
   
    <div style="display: inline_block"><br>
-    <h1>Testes</h1>
-  <img align="center" alt="Artur-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-  <img align="center" alt="Artur-RTL" height="30" width="40" src="https://testing-library.com/img/octopus-128x128.png" />
+    <h3>Tests</h3>
+  <img align="center" alt="Artur-Jest" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+  <img align="center" alt="Artur-RTL" height="50" width="70" src="https://testing-library.com/img/octopus-128x128.png" />
   </div>
 
- <div>
+ <div><br>
   <a href="https://github.com/arturholiv">
   <img height="152em" src="https://github-readme-stats.vercel.app/api?username=arturholiv&show_icons=true&hide_border=true&count_private=true&theme=tokyonight"/>
   <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturholiv&langs_count=10&count_private=true&hide_border=true&theme=tokyonight&layout=compact"/>
 <div>
 <br />
- <a href="https://www.linkedin.com/in/arturholiv/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
