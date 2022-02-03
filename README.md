@@ -12,7 +12,7 @@
  <img alt="javascript" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="maxwidth:100%;">
  <img alt="react" height="50" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
  <img alt="Redux" height="50" width="70"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-</div><br />
+</div>
 
 <div style="display: inline_block"><br>
     <h3>Back-End</h3>
