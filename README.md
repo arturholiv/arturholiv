@@ -26,6 +26,8 @@
     <img align="center" alt="Artur-Docker" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
     <img align="center" alt="Artur-MySQL"height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
       <img align="center" alt="Artur-NodeJs" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  
+        <img align="center" alt="Artur-c#" height="50" width="70" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" />
   </div>
   
    <div style="display: inline_block"><br>
