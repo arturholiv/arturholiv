@@ -36,6 +36,11 @@
     <h3>Tests</h3>
   <img align="center" alt="Artur-Jest" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
   <img align="center" alt="Artur-RTL" height="50" width="70" src="https://testing-library.com/img/octopus-128x128.png" />
+  <br/>
+  <br/>
+   <img align="center" alt="Artur-Mocha" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
+   <img align="center" alt="Artur-Chai" height="50"  src="https://camo.githubusercontent.com/7ecbd4531436e4f20c1dba52a4fd4ac367cfcc20a2f62cfe7a10f32da306afc6/687474703a2f2f636861696a732e636f6d2f696d672f636861692d6c6f676f2e706e67" />
+   <img align="center" alt="Artur-Sinon" height="50" width="50" src="https://camo.githubusercontent.com/c1d8136cb62cfd03e64b9193b7384fd75804a7b1bd9b8b705b51cc9d99de8fe3/68747470733a2f2f73696e6f6e6a732e6f72672f6173736574732f696d616765732f6c6f676f2e706e67" />
   </div>
 
  <div><br>
