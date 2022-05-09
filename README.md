@@ -27,8 +27,6 @@
     <img align="center" alt="Artur-MySQL"height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
     <img align="center" alt="Artur-NodeJs" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   
-<img align="center" alt="Artur-CSharp" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  
 <img align="center" alt="Artur-TypeScript" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />  
   </div>
   
@@ -49,3 +47,6 @@
   <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturholiv&langs_count=10&count_private=true&hide_border=true&theme=tokyonight&layout=compact"/>
 <div>
 <br />
+  
+  
+  <!-- <img align="center" alt="Artur-CSharp" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
