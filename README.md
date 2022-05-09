@@ -1,9 +1,3 @@
-<!-- <h1 align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi there!,+Welcome! +👋;I+am+Artur+Oliveira;Front-End+Developer;center&=true&size=30">
-  </a>
-</h1> -->
-
 <h1>Hi there, I'm Artur 👋</h1>
 <p> Jr. Full-Stack Developer</p>
 
@@ -13,11 +7,9 @@
 
 <h1>My Skills</h1>
 
-<div style="display: inline_block"><br>
  <h3>Languages</h3>
   <img alt="javascript" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
  <img align="center" alt="Artur-TypeScript" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-</div>
 
 <div align="left" > 
  <h3>Front-End</h3>
