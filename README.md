@@ -5,7 +5,7 @@
 </h1> -->
 
 <h1>Hi there, I'm Artur 👋</h1>
-<p> Front-end Developer and Full-Stack Student at Trybe</p>
+<p> Jr. Full-Stack Developer</p>
 
 <p> Here is my portifolio: https://arturholiv.github.io/portifolio </p>
 
