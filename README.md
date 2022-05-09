@@ -13,9 +13,11 @@
 
 <h1>My Skills</h1>
 
+<div style="display: inline_block"><br>
  <h3>Languages</h3>
   <img alt="javascript" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="maxwidth:100%;">
- <img align="center" alt="Artur-TypeScript" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> 
+ <img align="center" alt="Artur-TypeScript" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+</div>
 
 <div align="left" > 
  <h3>Front-End</h3>
