@@ -37,6 +37,12 @@
    <img align="center" alt="Artur-Sinon" height="50" width="50" src="https://camo.githubusercontent.com/c1d8136cb62cfd03e64b9193b7384fd75804a7b1bd9b8b705b51cc9d99de8fe3/68747470733a2f2f73696e6f6e6a732e6f72672f6173736574732f696d616765732f6c6f676f2e706e67" />
   </div>
 
+   <div style="display: inline_block"><br>
+    <h3>Currently learning:</h3>
+  <img align="center" alt="Artur-Ruby" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" />
+  </div>
+
+
  <div><br>
   <a href="https://github.com/arturholiv">
   <img height="152em" src="https://github-readme-stats.vercel.app/api?username=arturholiv&show_icons=true&hide_border=true&count_private=true&theme=tokyonight"/>
