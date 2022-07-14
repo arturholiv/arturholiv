@@ -39,7 +39,7 @@
 
    <div style="display: inline_block"><br>
     <h3>Currently learning:</h3>
-  <img align="center" alt="Artur-Ruby" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" />
+  <img align="center" alt="Artur-CSharp" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   </div>
 
 
