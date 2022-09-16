@@ -40,6 +40,7 @@
    <div style="display: inline_block"><br>
     <h3>Currently learning:</h3>
   <img align="center" alt="Artur-CSharp" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="Artur-python" height="50" width="70" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Python-Dark.svg" />
   </div>
 
 
@@ -52,3 +53,4 @@
   
   
   <!-- <img align="center" alt="Artur-CSharp" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  
