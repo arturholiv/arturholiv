@@ -1,4 +1,4 @@
-<p> Jr. Full-Stack Developer</p>
+<h1> Jr. Full-Stack Developer</h1>
 
 <p> Here is my portifolio: https://arturholiv.github.io/portifolio </p>
 
