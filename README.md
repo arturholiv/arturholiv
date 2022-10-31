@@ -43,12 +43,6 @@
   </div>
 
 
- <div><br>
-  <a href="https://github.com/arturholiv">
-  <img height="152em" src="https://github-readme-stats.vercel.app/api?username=arturholiv&show_icons=true&hide_border=true&count_private=true&theme=tokyonight"/>
-  <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturholiv&langs_count=10&count_private=true&hide_border=true&theme=tokyonight&layout=compact"/>
-<div>
-<br />
   
   
   <!-- <img align="center" alt="Artur-CSharp" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
