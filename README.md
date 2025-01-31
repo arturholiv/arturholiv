@@ -1,5 +1,4 @@
 <h1> Full-Stack Developer</h1>
-
 <!--<p> Here is my portifolio: https://arturholiv.github.io/portifolio   </p>-->
 
  <a href="https://www.linkedin.com/in/arturholiv/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
